@@ -1,7 +1,7 @@
 Hi, this is your Git file.  Answer the following:
 
-1. My name is : 
-2. My teammates names are:
-3. My favorite programming language is :
-4. The name of my semester long mobile application is :
+1. Haroo! My name is : Scott Childers
+2. My studentmates' names are: Carl Nesbit, Jared Cahalan, Abel Sanche
+3. My favorite programming sprache is : Not Lisp  (I like the rest I have been exposed to equally)
+4. The name of my life long mobile application is : Candied Blades
 
