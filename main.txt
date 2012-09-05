@@ -2,6 +2,6 @@ Hi, this is your Git file.  Answer the following:
 
 1. My name is : Carl "Tiberious" Nesbit
 2. My teammates names are: Scott Childers, Abel Sanche, Jared Cahalan, James T. Kirk
-3. My favorite programming language is :
-4. The name of my semester long mobile application is :
+3. My favorite programming language is :Either Python, because it has "pie" in the name, or Visual Basic.NET, because everyone else hates it.
+4. The name of my semester long mobile application is : "Candied Blades!!!"
 
