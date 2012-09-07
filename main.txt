@@ -1,6 +1,7 @@
 Hi, this is your Git file.  Answer the following:
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 1. My name is : Jared
 2. My teammates names are: Scott, Abel, Carl
 3. My favorite programming language is : Python
@@ -11,4 +12,11 @@ Hi, this is your Git file.  Answer the following:
 3. My favorite programming language is :
 4. The name of my semester long mobile application is :
 >>>>>>> parent of addf51b... Added my name
+=======
+1. My name is : Carl "Tiberious" Nesbit and Jared Cahalan
+2. My teammates names are: Scott Childers, Abel Sanche, Jared Cahalan, James T. Kirk
+3. My favorite programming language is :Either Python, because it has "pie" in the name, or Visual Basic.NET, because everyone else hates it. We like python because snakes are just cool.
+4. The name of my semester long mobile application is : 
+
+>>>>>>> b6237e10c93725b15d36e5cb3aaa2137a99a0dde
 
