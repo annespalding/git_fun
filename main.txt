@@ -9,8 +9,13 @@ Hi, this is your Git file.  Answer the following:
 =======
 1. My name is : Abel
 2. My teammates names are: Jared, Carl and Scott
+<<<<<<< HEAD
 3. My favorite programming language is : Python
 4. The name of my semester long mobile application is : Visual Keeper
+=======
+3. My favorite programming language is :
+4. The name of my semester long mobile application is :
+>>>>>>> parent of 4d737b5... Commit #3 - Favorite Language Add
 >>>>>>> parent of addf51b... Added my name
 =======
 1. My name is : Carl "Tiberious" Nesbit and Jared Cahalan
