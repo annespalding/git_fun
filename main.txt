@@ -8,7 +8,7 @@ Hi, this is your Git file.  Answer the following:
 4. The name of my semester long mobile application is : Virtual Keeper
 =======
 1. My name is : Abel
-2. My teammates names are:
+2. My teammates names are: Jared, Carl and Scott
 3. My favorite programming language is :
 4. The name of my semester long mobile application is :
 >>>>>>> parent of addf51b... Added my name
