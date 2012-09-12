@@ -18,10 +18,11 @@ Hi, this is your Git file.  Answer the following:
 >>>>>>> parent of 4d737b5... Commit #3 - Favorite Language Add
 >>>>>>> parent of addf51b... Added my name
 =======
-1. My name is : Carl "Tiberious" Nesbit and Jared Cahalan
+1. My name is : Carl "Tiberious" Nesbit and Jared Cahalan and Abel
 2. My teammates names are: Scott Childers, Abel Sanche, Jared Cahalan, James T. Kirk
 3. My favorite programming language is :Either Python, because it has "pie" in the name, or Visual Basic.NET, because everyone else hates it. We like python because snakes are just cool.
-4. The name of my semester long mobile application is : 
+4. The name of my semester long mobile application is : Virtual Keeper
 
 >>>>>>> b6237e10c93725b15d36e5cb3aaa2137a99a0dde
 
+Figuring out the merge was the most trouble we had with the first phase.
