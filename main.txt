@@ -1,7 +1,22 @@
 Hi, this is your Git file.  Answer the following:
 
-1. My name is : 
-2. My teammates names are:
-3. My favorite programming language is :
-4. The name of my semester long mobile application is :
+1. My name is : Carl "Tiberious" Nesbit and Jared Cahalan and Abel
+2. My teammates names are: Scott Childers, Abel Sanche, Jared Cahalan, James T. Kirk
+3. My favorite programming language is :Either Python, because it has "pie" in the name, or Visual Basic.NET, because everyone else hates it. We like python because snakes are just cool.
+4. The name of my semester long mobile application is : Visual Keeper
 
+
+Phase1
+Figuring out the merge was the most trouble we had with the first phase workflow. There were some troubles with doing commits but not doing pushes.
+
+Phase2
+My image file is sand_dunes.jpg - Jared
+Abel - My file is named fun_image.jpeg
+
+This workflow was better than the last it was easier to separate the things people were doing. The .gitignore file was easy to set up. The .gitignore file is perfect for ignoring testing data files or executables.
+
+The Phase 2 workflow of forking went significantly better along with the permission establishing and resyncing the files after the pull requests were a approved. I  now have a way etter appreciation for the shell interface and the gui on mac. The .gitignore is a way to specify which files should be ignored for upload. Files that are necessary in the creation of the project on your machine but not so important for other people to have access to is where the .gitignore comes into play.
+
+The phase 3 workflow was easier to get branches merged when we have everyone having collaborator privleges but I see how it could be a problem if you had a bunch of people just merging pull requests like crazy.I think its best in a small group to have everyone with collaborator permissions and working on their own branch. Then you can have each person leave comments on the pull request to help merge them back together.
+
+Abel_P3Q7 - Things that are uncoordinated won't work things that are coordinated will work. The only rule I would see is if you are adding to a file let everyone know.Overall Github is a great resource to have in any type of programming atmosphere. It's great for single users that have multiple computers, github can keep the files up to date and synced with progress across different machines. In a team atmosphere branches and pull requests are great when it comes to collaborating and keeping up-to-date code. There is no doubt that these Github trainings are going to come in handy later in my programming career. 
