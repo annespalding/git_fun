@@ -21,8 +21,12 @@ Hi, this is your Git file.  Answer the following:
 1. My name is : Carl "Tiberious" Nesbit and Jared Cahalan and Abel
 2. My teammates names are: Scott Childers, Abel Sanche, Jared Cahalan, James T. Kirk
 3. My favorite programming language is :Either Python, because it has "pie" in the name, or Visual Basic.NET, because everyone else hates it. We like python because snakes are just cool.
-4. The name of my semester long mobile application is : Virtual Keeper
+4. The name of my semester long mobile application is : Visual Keeper
 
 >>>>>>> b6237e10c93725b15d36e5cb3aaa2137a99a0dde
 
+Phase1
 Figuring out the merge was the most trouble we had with the first phase.
+
+Phase2
+My image file is sand_dunes.jpg - Jared
