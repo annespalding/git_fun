@@ -23,8 +23,15 @@ Hi, this is your Git file.  Answer the following:
 Ryan: Kerberos.gif
 Randy: Arrivallogo.png
 
- it requires alot of comunication between teammates
-especially starting off.
-thats tho most important part right there
-git encourages (forces) good communication between development team members
-and saves you from yourself as far as breaking important things
+Git Workflow:
+Git by its very nature encourages (forces) of comunication between teammates
+especially starting off. It also saves you from yourself as far as breaking
+important things by enforcing a strict workflow. Such that whenever you have
+modify a file you have to add it to git (git add) and then commit it. Commits
+are logged by unique hashes so that you can revert to any previous commit if
+need be. Once you are satisfied with your files you can push them to the
+master repo assuming you have the necessary permission and that there are no
+conflicts. If there any conflicts you must merge any files with conflicts and manually
+resolve them. Once this is done you can push and pull at your leasure.
+Repositories can also be branched to work on yourself and the submitted via a
+pull request to be merged with the master repo again. 
