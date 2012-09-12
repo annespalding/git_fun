@@ -17,3 +17,5 @@ This workflow was better than the last it was easier to separate the things peop
 
 The Phase 2 workflow of forking went significantly better along with the permission establishing and resyncing the files after the pull requests were a approved. I  now have a way etter appreciation for the shell interface and the gui on mac. The .gitignore is a way to specify which files should be ignored for upload. Files that are necessary in the creation of the project on your machone but not so important for other people to have access to is where the .gitignore comes into play.
 
+My Favorite Quote:
+	“I have heard there are troubles of more than one kind. Some come from ahead and some come from behind. But I've bought a big bat. I'm all ready you see. Now my troubles are going to have troubles with me!” - Dr. Seuss
