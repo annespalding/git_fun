@@ -23,6 +23,7 @@ Hi, this is your Git file.  Answer the following:
 Ryan: Kerberos.gif
 Randy: Arrivallogo.png
 Beau: moose.png
+Thayne: smiley.png
 
 Git Workflow:
 Git by its very nature encourages (forces) of comunication between teammates
