@@ -1,7 +1,30 @@
 Hi, this is your Git file.  Answer the following:
 
-1. My name is : 
-2. My teammates names are:
-3. My favorite programming language is :
+1. My name is : Beau
+2. My teammates names are: Ryan, Thayne, Randy
+3. My favorite programming language is : C++
 4. The name of my semester long mobile application is :
 
+1. My name is : Randy Mangel
+2. My teammates names are: Ryan, Thayne, Beau
+3. My favorite programming language is : python
+4. The name of my semester long mobile application is :
+
+1. My name is : Ryan
+2. My teammates names are: Bau, Randy, Thane
+3. My favorite programming language is : C
+4. The name of my semester long mobile application is :
+
+1. My name is : Thayne
+2. My teammates names are: Beau,Ryan,Randy
+3. My favorite programming language is : Python
+4. The name of my semester long mobile application is :
+
+Ryan: Kerberos.gif
+Randy: Arrivallogo.png
+
+ it requires alot of comunication between teammates
+especially starting off.
+thats tho most important part right there
+git encourages (forces) good communication between development team members
+and saves you from yourself as far as breaking important things
