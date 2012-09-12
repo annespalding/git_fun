@@ -7,8 +7,10 @@ Hi, this is your Git file.  Answer the following:
 
 
 Phase1
-Figuring out the merge was the most trouble we had with the first phase.
+Figuring out the merge was the most trouble we had with the first phase workflow. There were some troubles with doing commits but not doing pushes.
 
 Phase2
 My image file is sand_dunes.jpg - Jared
 Abel - My file is named fun_image.jpeg
+
+This workflow was better than the last it was easier to separate the things people were doing. The .gitignore file was easy to set up. The .gitignore file is perfect for ignoring testing data files or executables.
