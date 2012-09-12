@@ -26,3 +26,5 @@ Hi, this is your Git file.  Answer the following:
 >>>>>>> b6237e10c93725b15d36e5cb3aaa2137a99a0dde
 
 Figuring out the merge was the most trouble we had with the first phase.
+
+Abel - My file is named fun_image.jpeg
