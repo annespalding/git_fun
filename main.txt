@@ -15,5 +15,7 @@ Abel - My file is named fun_image.jpeg
 
 This workflow was better than the last it was easier to separate the things people were doing. The .gitignore file was easy to set up. The .gitignore file is perfect for ignoring testing data files or executables.
 
-The Phase 2 workflow of forking went significantly better along with the permission establishing and resyncing the files after the pull requests were a approved. I  now have a way etter appreciation for the shell interface and the gui on mac. The .gitignore is a way to specify which files should be ignored for upload. Files that are necessary in the creation of the project on your machone but not so important for other people to have access to is where the .gitignore comes into play.
+The Phase 2 workflow of forking went significantly better along with the permission establishing and resyncing the files after the pull requests were a approved. I  now have a way etter appreciation for the shell interface and the gui on mac. The .gitignore is a way to specify which files should be ignored for upload. Files that are necessary in the creation of the project on your machine but not so important for other people to have access to is where the .gitignore comes into play.
+
+The phase 3 workflow was easier to get branches merged when we have everyone having collaborator privleges but I see how it could be a problem if you had a bunch of people just merging pull requests like crazy.I think its best in a small group to have everyone with collaborator permissions and working on their own branch. Then you can have each person leave comments on the pull request to help merge them back together.
 
